@@ -1,0 +1,3 @@
+rootProject.name = 'ijebs_app'
+
+include ':app'
